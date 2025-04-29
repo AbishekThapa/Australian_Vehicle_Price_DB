@@ -19,5 +19,9 @@
             "username": "postgres"
         }
     ],
-    "git.ignoreLimitWarning": true
+    "git.ignoreLimitWarning": true,
+    "cSpell.words": [
+        "colour",
+        "kilometres"
+    ]
 }
